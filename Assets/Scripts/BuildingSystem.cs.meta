@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 907416977c91b4e29b7d2aecef7c1706
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - wallPrefab: {instanceID: 0}
+  - floorPrefab: {instanceID: 0}
+  - rampPrefab: {instanceID: 0}
+  - conePrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
